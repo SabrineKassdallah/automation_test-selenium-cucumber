@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
 <img width="350" alt="y" src="https://user-images.githubusercontent.com/62071683/85179170-93982080-b280-11ea-8033-9afe7238c044.jpg">
 </p>
