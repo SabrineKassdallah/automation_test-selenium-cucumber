@@ -83,7 +83,9 @@ Les tests sont écrits dans le repertoire src/spec/feature avec le syntaxe Gherk
 
 
 # Reporting 
-Les résultats de test s’affichent dans un rapport Extent nommé Dartagnan.html dans le dossier Target / Cucumber-reports
+Les résultats de test s’affichent dans un rapport Extent nommé cucumber-report.html dans le dossier Target : c'est le rapport par défaut 
+proposé par cucumber mais la dependence 'net.masterthought' propose autre affichage pour qu'un rapport soit lisible et détaillé 
+
 
 
 
